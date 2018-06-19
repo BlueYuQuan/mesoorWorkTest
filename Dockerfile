@@ -19,4 +19,4 @@ WORKDIR /usr/src/myapp
 #下载需要的依赖
 RUN pip3 install -r requirements.txt
 #指定启动容器时执行的命令--启动程序
-CMD ["python", "k8s-my-scheduler-code_test.py"]
+CMD ["python", "test.py"]
