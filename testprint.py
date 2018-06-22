@@ -5,5 +5,5 @@ if __name__ == "__main__":
 
     while True:
         time.sleep(1)
-        print("ee")
+        print("see")
         print("test success!")
