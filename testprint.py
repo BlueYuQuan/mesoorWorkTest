@@ -5,5 +5,5 @@ if __name__ == "__main__":
 
     while True:
         time.sleep(1)
-        print("successfu")
+        print("successf")
         print("test successful!")
